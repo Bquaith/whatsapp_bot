@@ -1,4 +1,2 @@
 qrcode
 selenium
-pyzbar
-pillow
